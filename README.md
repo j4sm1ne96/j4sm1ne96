@@ -15,14 +15,8 @@ Technical Author at Chronicle Software
 - Frontend development on user portal
 - Website maintainence and development with wordpress
 
-# By Night
+# By Night:
 Instructor with Code First Girls
 - Teaching 'introduction to web development' courses 
 - Helping women into tech
 - Teaching HTML, CSS and JavaScript basics
-
-
-- 🔭 I’m currently working on a MySQl project for Code First Girls
-- 🌱 I’m currently learning React
-- 💬 Ask me about getting started with web development
-- 😄 Pronouns: she/her
