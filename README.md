@@ -9,11 +9,10 @@ Skills
 </p>
 
 # By Day:
-Technical Author at Chronicle Software
-- Technical videos and tutorials
-- Technical articles, documentation and diagrams
-- Frontend development on user portal
-- Website maintainence and development with wordpress
+Junior Developer at Umi Digital
+- Building bespoke website components for clients
+- Website maintainence and development
+- HTML, CSS, JavaScript, PHP
 
 # By Night:
 Instructor with Code First Girls
