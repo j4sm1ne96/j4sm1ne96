@@ -25,4 +25,5 @@ STEM Instructor with Ignite Hubs
 - Teaching children aged 8-12 the basics of programming
 - Includes programming, robotics and digital design
 
-See my personal website here: https://j4sm1ne96.github.io/jasminetaylorwebsite/
+Recently started a YouTube channel, with the target audience being someone new to coding:
+https://www.youtube.com/@taylorteachestech
